@@ -1,3 +1,4 @@
+```python
 def Reis(name = None, age = None, nacionality = None,):
     print(name)
     print(age)
@@ -15,3 +16,4 @@ for i in studiyng:
 print("\nInterests:")
 for i in interests:
     print(i)
+```
