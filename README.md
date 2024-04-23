@@ -5,7 +5,7 @@ def Reis(name = None, age = None, nacionality = None,):
 
 Reis(name = "My name is Lenny", age = f"I'm {16} years old", nacionality = "I live in Brazil")
 
-studiyng = ["   Python", "   Javascript", "   C", "   Assembly"]
+studiyng = ["   Python", "   Javascript", "   C", "   Assembly", "   Typescript"]
 interests = ["   Play videogames", "   Watch anime", "   Development"]
 
 print("\nStudying:")
